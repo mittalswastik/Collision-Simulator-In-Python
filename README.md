@@ -4,7 +4,7 @@ Simulating motion of atoms in a medium on randomly changing the temperature
 <h3> Getting Started </h3>
 <h4> Installation <h4>
 <ol>
-   <li> Install <a href="https://pypi.python.org/pypi/simplegui">SimpleGui</a>-python graphics library, copy paste the code and execute on python interpreter</li>
+   <li> Install <a href="https://pypi.python.org/pypi/simplegui">SimpleGui</a>-python graphics library, clone the repo and execute on python interpreter</li>
    <li> Can also be executed on <a href="http://www.codeskulptor.org/docs.html#tabs-Python">codeskulptor</a> - Copy the code <a href="http://www.codeskulptor.org/">here<a> and run  
 </ol>
 
