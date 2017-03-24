@@ -40,7 +40,7 @@ def draw(canvas):
             velo2[i]=-velo2[i]
             #canvas.draw_circle([pt1[i],pt2[i]],2,5,"Fuchsia")
         for j in range(qty):
-            if i<>j:
+            if i!=j:
                 if math.sqrt(math.pow((pt2[i]-pt2[j]),2)+math.pow((pt1[i]-pt1[j]),2))<=4:
                     check()
                     
